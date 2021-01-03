@@ -1,0 +1,10 @@
+discord.py
+python-dotenv
+python
+discord
+flask
+colorama
+aiohttp
+async-timeout
+youtube-dl
+PyNaCl
